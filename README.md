@@ -5,7 +5,7 @@ API REST desenvolvida para o trabalho da disciplina de **Desenvolvimento Web Bac
 ## 🛠️ Tecnologias
 
 - Java 17+
-- Spring Boot 3.x
+- Spring Boot 4.x
 - Spring Data JPA
 - MySQL
 - Lombok
